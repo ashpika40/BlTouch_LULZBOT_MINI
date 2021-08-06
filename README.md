@@ -1,5 +1,5 @@
 # BlTouch_LULZBOT_MINI
-Go into marlin
+Go into Marlin Folder.
 Open the marlin.ino file through arduino.
 Use this to install the rambo board onto arduino.
 https://reprap.org/wiki/Rambo_firmware
